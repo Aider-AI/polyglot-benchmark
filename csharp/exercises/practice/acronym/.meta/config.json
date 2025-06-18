@@ -1,0 +1,32 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "bressain",
+    "j2jensen",
+    "jwood803",
+    "mattcbaker",
+    "robkeim",
+    "vgrigoriu",
+    "wolf99",
+    "yvincent"
+  ],
+  "files": {
+    "solution": [
+      "Acronym.cs"
+    ],
+    "test": [
+      "AcronymTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Acronym.csproj"
+    ]
+  },
+  "blurb": "Convert a long phrase to its acronym.",
+  "source": "Julien Vanier",
+  "source_url": "https://github.com/monkbroc"
+}

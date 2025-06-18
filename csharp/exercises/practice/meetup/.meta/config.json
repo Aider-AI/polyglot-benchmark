@@ -1,0 +1,29 @@
+{
+  "authors": [
+    "bressain"
+  ],
+  "contributors": [
+    "ErikSchierboom",
+    "InKahootz",
+    "j2jensen",
+    "jwood803",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "Meetup.cs"
+    ],
+    "test": [
+      "MeetupTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Meetup.csproj"
+    ]
+  },
+  "blurb": "Calculate the date of meetups.",
+  "source": "Jeremy Hinegardner mentioned a Boulder meetup that happens on the Wednesteenth of every month"
+}

@@ -1,0 +1,32 @@
+{
+  "authors": [
+    "bressain"
+  ],
+  "contributors": [
+    "ErikSchierboom",
+    "felix91gr",
+    "j2jensen",
+    "jwood803",
+    "petertseng",
+    "robkeim",
+    "wolf99",
+    "Zureka"
+  ],
+  "files": {
+    "solution": [
+      "LargestSeriesProduct.cs"
+    ],
+    "test": [
+      "LargestSeriesProductTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "LargestSeriesProduct.csproj"
+    ]
+  },
+  "blurb": "Given a string of digits, calculate the largest product for a contiguous substring of digits of length n.",
+  "source": "A variation on Problem 8 at Project Euler",
+  "source_url": "https://projecteuler.net/problem=8"
+}

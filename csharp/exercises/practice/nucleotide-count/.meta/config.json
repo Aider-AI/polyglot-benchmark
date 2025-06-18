@@ -1,0 +1,33 @@
+{
+  "authors": [
+    "bressain"
+  ],
+  "contributors": [
+    "ErikSchierboom",
+    "InKahootz",
+    "j2jensen",
+    "jmbradnan",
+    "jwood803",
+    "kytrinyx",
+    "robkeim",
+    "sjakobi",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "NucleotideCount.cs"
+    ],
+    "test": [
+      "NucleotideCountTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "NucleotideCount.csproj"
+    ]
+  },
+  "blurb": "Given a DNA string, compute how many times each nucleotide occurs in the string.",
+  "source": "The Calculating DNA Nucleotides_problem at Rosalind",
+  "source_url": "https://rosalind.info/problems/dna/"
+}

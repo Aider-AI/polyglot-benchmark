@@ -1,0 +1,28 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "j2jensen",
+    "robkeim",
+    "tomschluter",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "Say.cs"
+    ],
+    "test": [
+      "SayTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Say.csproj"
+    ]
+  },
+  "blurb": "Given a number from 0 to 999,999,999,999, spell out that number in English.",
+  "source": "A variation on the JavaRanch CattleDrive, Assignment 4",
+  "source_url": "https://web.archive.org/web/20240907035912/https://coderanch.com/wiki/718804"
+}

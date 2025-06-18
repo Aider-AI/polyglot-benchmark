@@ -1,0 +1,25 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "j2jensen",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "Rectangles.cs"
+    ],
+    "test": [
+      "RectanglesTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Rectangles.csproj"
+    ]
+  },
+  "blurb": "Count the rectangles in an ASCII diagram."
+}

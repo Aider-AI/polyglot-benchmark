@@ -1,0 +1,28 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "j2jensen",
+    "nicolastarzia",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "VariableLengthQuantity.cs"
+    ],
+    "test": [
+      "VariableLengthQuantityTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "VariableLengthQuantity.csproj"
+    ]
+  },
+  "blurb": "Implement variable length quantity encoding and decoding.",
+  "source": "A poor Splice developer having to implement MIDI encoding/decoding.",
+  "source_url": "https://splice.com"
+}

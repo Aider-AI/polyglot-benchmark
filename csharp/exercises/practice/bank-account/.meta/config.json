@@ -1,0 +1,27 @@
+{
+  "authors": [
+    "robkeim"
+  ],
+  "contributors": [
+    "AndrewYHuang",
+    "artiom",
+    "ErikSchierboom",
+    "j2jensen",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "BankAccount.cs"
+    ],
+    "test": [
+      "BankAccountTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "BankAccount.csproj"
+    ]
+  },
+  "blurb": "Simulate a bank account supporting opening/closing, withdraws, and deposits of money. Watch out for concurrent transactions!"
+}

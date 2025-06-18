@@ -1,0 +1,36 @@
+{
+  "authors": [
+    "rprouse"
+  ],
+  "contributors": [
+    "avjgit",
+    "bmeverett",
+    "bressain",
+    "ErikSchierboom",
+    "j2jensen",
+    "jwood803",
+    "kytrinyx",
+    "mattcbaker",
+    "robkeim",
+    "Thorocaine",
+    "vamcs",
+    "vgrigoriu",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "Clock.cs"
+    ],
+    "test": [
+      "ClockTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Clock.csproj"
+    ]
+  },
+  "blurb": "Implement a clock that handles times without dates.",
+  "source": "Pairing session with Erin Drummond"
+}

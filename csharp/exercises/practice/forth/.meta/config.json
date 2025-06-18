@@ -1,0 +1,26 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "bjorkqvist",
+    "j2jensen",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "Forth.cs"
+    ],
+    "test": [
+      "ForthTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Forth.csproj"
+    ]
+  },
+  "blurb": "Implement an evaluator for a very simple subset of Forth."
+}

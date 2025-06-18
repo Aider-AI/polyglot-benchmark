@@ -1,0 +1,29 @@
+{
+  "authors": [
+    "pminten"
+  ],
+  "contributors": [
+    "bressain",
+    "ErikSchierboom",
+    "GKotfis",
+    "j2jensen",
+    "jwood803",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "Tournament.cs"
+    ],
+    "test": [
+      "TournamentTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Tournament.csproj"
+    ]
+  },
+  "blurb": "Tally the results of a small football competition."
+}

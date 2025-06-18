@@ -1,0 +1,26 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "AndrewYHuang",
+    "j2jensen",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "Ledger.cs"
+    ],
+    "test": [
+      "LedgerTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Ledger.csproj"
+    ]
+  },
+  "blurb": "Refactor a ledger printer."
+}

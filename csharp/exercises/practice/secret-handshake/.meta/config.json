@@ -1,0 +1,32 @@
+{
+  "authors": [
+    "mikecoop"
+  ],
+  "contributors": [
+    "bressain",
+    "ErikSchierboom",
+    "j2jensen",
+    "jwood803",
+    "kytrinyx",
+    "robkeim",
+    "sjwarner-bp",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "SecretHandshake.cs"
+    ],
+    "test": [
+      "SecretHandshakeTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "SecretHandshake.csproj"
+    ]
+  },
+  "blurb": "Given a decimal number, convert it to the appropriate sequence of events for a secret handshake.",
+  "source": "Bert, in Mary Poppins",
+  "source_url": "https://www.imdb.com/title/tt0058331/quotes/?item=qt0437047"
+}
