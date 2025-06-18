@@ -1,0 +1,32 @@
+{
+  "authors": [
+    "mikecoop"
+  ],
+  "contributors": [
+    "balazsbotond",
+    "ErikSchierboom",
+    "felix91gr",
+    "j2jensen",
+    "jwood803",
+    "kytrinyx",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "DifferenceOfSquares.cs"
+    ],
+    "test": [
+      "DifferenceOfSquaresTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "DifferenceOfSquares.csproj"
+    ]
+  },
+  "blurb": "Find the difference between the square of the sum and the sum of the squares of the first N natural numbers.",
+  "source": "Problem 6 at Project Euler",
+  "source_url": "https://projecteuler.net/problem=6"
+}

@@ -1,0 +1,31 @@
+{
+  "authors": [
+    "bressain"
+  ],
+  "contributors": [
+    "ErikSchierboom",
+    "j2jensen",
+    "joostas",
+    "jwood803",
+    "robkeim",
+    "sjwarner",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "PythagoreanTriplet.cs"
+    ],
+    "test": [
+      "PythagoreanTripletTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "PythagoreanTriplet.csproj"
+    ]
+  },
+  "blurb": "Given an integer N, find all Pythagorean triplets for which a + b + c = N.",
+  "source": "A variation of Problem 9 from Project Euler",
+  "source_url": "https://projecteuler.net/problem=9"
+}

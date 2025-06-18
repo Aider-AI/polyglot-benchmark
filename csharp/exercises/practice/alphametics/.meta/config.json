@@ -1,0 +1,29 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "j2jensen",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "Alphametics.cs"
+    ],
+    "test": [
+      "AlphameticsTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Alphametics.csproj"
+    ]
+  },
+  "test_runner": false,
+  "representer": {
+    "version": 1
+  },
+  "blurb": "Given an alphametics puzzle, find the correct solution."
+}

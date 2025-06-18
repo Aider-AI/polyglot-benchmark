@@ -1,0 +1,32 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "GKotfis",
+    "j2jensen",
+    "jwood803",
+    "mrtank",
+    "robkeim",
+    "vgrigoriu",
+    "wolf99",
+    "Zureka"
+  ],
+  "files": {
+    "solution": [
+      "SaddlePoints.cs"
+    ],
+    "test": [
+      "SaddlePointsTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "SaddlePoints.csproj"
+    ]
+  },
+  "blurb": "Detect saddle points in a matrix.",
+  "source": "J Dalbey's Programming Practice problems",
+  "source_url": "https://users.csc.calpoly.edu/~jdalbey/103/Projects/ProgrammingPractice.html"
+}

@@ -1,0 +1,25 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "j2jensen",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "Zipper.cs"
+    ],
+    "test": [
+      "ZipperTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Zipper.csproj"
+    ]
+  },
+  "blurb": "Creating a zipper for a binary tree."
+}

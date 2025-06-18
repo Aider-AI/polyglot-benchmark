@@ -1,0 +1,28 @@
+{
+  "authors": [
+    "ShamilS"
+  ],
+  "contributors": [
+    "ErikSchierboom",
+    "j2jensen",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "RationalNumbers.cs"
+    ],
+    "test": [
+      "RationalNumbersTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "RationalNumbers.csproj"
+    ]
+  },
+  "blurb": "Implement rational numbers.",
+  "source": "Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Rational_number"
+}

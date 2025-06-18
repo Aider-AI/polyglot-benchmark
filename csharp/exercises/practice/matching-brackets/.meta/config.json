@@ -1,0 +1,29 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "j2jensen",
+    "martinfreedman",
+    "robkeim",
+    "SleeplessByte",
+    "vgrigoriu",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "MatchingBrackets.cs"
+    ],
+    "test": [
+      "MatchingBracketsTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "MatchingBrackets.csproj"
+    ]
+  },
+  "blurb": "Make sure the brackets and braces all match.",
+  "source": "Ginna Baker"
+}

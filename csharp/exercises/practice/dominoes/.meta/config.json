@@ -1,0 +1,27 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "InKahootz",
+    "j2jensen",
+    "robkeim",
+    "wolf99",
+    "Zureka"
+  ],
+  "files": {
+    "solution": [
+      "Dominoes.cs"
+    ],
+    "test": [
+      "DominoesTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Dominoes.csproj"
+    ]
+  },
+  "blurb": "Make a chain of dominoes."
+}

@@ -1,0 +1,26 @@
+{
+  "authors": [
+    "robkeim"
+  ],
+  "contributors": [
+    "ErikSchierboom",
+    "felix91gr",
+    "j2jensen",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "Minesweeper.cs"
+    ],
+    "test": [
+      "MinesweeperTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Minesweeper.csproj"
+    ]
+  },
+  "blurb": "Add the numbers to a minesweeper board."
+}

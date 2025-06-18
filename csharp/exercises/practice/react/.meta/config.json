@@ -1,0 +1,25 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "j2jensen",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "React.cs"
+    ],
+    "test": [
+      "ReactTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "React.csproj"
+    ]
+  },
+  "blurb": "Implement a basic reactive system."
+}

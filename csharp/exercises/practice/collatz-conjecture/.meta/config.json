@@ -1,0 +1,30 @@
+{
+  "authors": [
+    "jpreese"
+  ],
+  "contributors": [
+    "ErikSchierboom",
+    "FizzBuzz791",
+    "j2jensen",
+    "robkeim",
+    "ruanha",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "CollatzConjecture.cs"
+    ],
+    "test": [
+      "CollatzConjectureTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "CollatzConjecture.csproj"
+    ]
+  },
+  "blurb": "Calculate the number of steps to reach 1 using the Collatz conjecture.",
+  "source": "Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Collatz_conjecture"
+}

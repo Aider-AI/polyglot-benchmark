@@ -1,0 +1,30 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "bcwood",
+    "bmeverett",
+    "j2jensen",
+    "jwood803",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "PascalsTriangle.cs"
+    ],
+    "test": [
+      "PascalsTriangleTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "PascalsTriangle.csproj"
+    ]
+  },
+  "blurb": "Compute Pascal's triangle up to a given number of rows.",
+  "source": "Pascal's Triangle at Wolfram Math World",
+  "source_url": "https://www.wolframalpha.com/input/?i=Pascal%27s+triangle"
+}

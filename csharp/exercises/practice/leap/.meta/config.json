@@ -1,0 +1,31 @@
+{
+  "authors": [
+    "bressain"
+  ],
+  "contributors": [
+    "ErikSchierboom",
+    "j2jensen",
+    "jwood803",
+    "kytrinyx",
+    "NextNebula",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "Leap.cs"
+    ],
+    "test": [
+      "LeapTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Leap.csproj"
+    ]
+  },
+  "blurb": "Determine whether a given year is a leap year.",
+  "source": "CodeRanch Cattle Drive, Assignment 3",
+  "source_url": "https://web.archive.org/web/20240907033714/https://coderanch.com/t/718816/Leap"
+}

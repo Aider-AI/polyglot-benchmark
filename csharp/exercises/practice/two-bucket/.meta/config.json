@@ -1,0 +1,29 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "cmccandless",
+    "GKotfis",
+    "j2jensen",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "TwoBucket.cs"
+    ],
+    "test": [
+      "TwoBucketTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "TwoBucket.csproj"
+    ]
+  },
+  "blurb": "Given two buckets of different size, demonstrate how to measure an exact number of liters.",
+  "source": "Water Pouring Problem",
+  "source_url": "https://demonstrations.wolfram.com/WaterPouringProblem/"
+}

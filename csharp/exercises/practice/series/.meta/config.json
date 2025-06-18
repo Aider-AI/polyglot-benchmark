@@ -1,0 +1,29 @@
+{
+  "authors": [
+    "bressain"
+  ],
+  "contributors": [
+    "ErikSchierboom",
+    "j2jensen",
+    "jwood803",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "Series.cs"
+    ],
+    "test": [
+      "SeriesTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Series.csproj"
+    ]
+  },
+  "blurb": "Given a string of digits, output all the contiguous substrings of length `n` in that string.",
+  "source": "A subset of the Problem 8 at Project Euler",
+  "source_url": "https://projecteuler.net/problem=8"
+}

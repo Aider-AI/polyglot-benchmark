@@ -1,0 +1,29 @@
+{
+  "authors": [
+    "robkeim"
+  ],
+  "contributors": [
+    "ErikSchierboom",
+    "j2jensen",
+    "vgrigoriu",
+    "wolf99",
+    "yvincent"
+  ],
+  "files": {
+    "solution": [
+      "Isogram.cs"
+    ],
+    "test": [
+      "IsogramTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Isogram.csproj"
+    ]
+  },
+  "blurb": "Determine if a word or phrase is an isogram.",
+  "source": "Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Isogram"
+}

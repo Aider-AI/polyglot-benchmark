@@ -1,0 +1,31 @@
+{
+  "authors": [
+    "bressain"
+  ],
+  "contributors": [
+    "ErikSchierboom",
+    "j2jensen",
+    "jwood803",
+    "morrme",
+    "robkeim",
+    "vgrigoriu",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "Luhn.cs"
+    ],
+    "test": [
+      "LuhnTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "Luhn.csproj"
+    ]
+  },
+  "blurb": "Given a number determine whether or not it is valid per the Luhn formula.",
+  "source": "The Luhn Algorithm on Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Luhn_algorithm"
+}

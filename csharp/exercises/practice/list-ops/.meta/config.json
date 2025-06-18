@@ -1,0 +1,26 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "j2jensen",
+    "jmbradnan",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "ListOps.cs"
+    ],
+    "test": [
+      "ListOpsTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "ListOps.csproj"
+    ]
+  },
+  "blurb": "Implement basic list operations."
+}

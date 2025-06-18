@@ -1,0 +1,26 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "deniscapeto",
+    "j2jensen",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "SgfParsing.cs"
+    ],
+    "test": [
+      "SgfParsingTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "SgfParsing.csproj"
+    ]
+  },
+  "blurb": "Parsing a Smart Game Format string."
+}

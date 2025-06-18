@@ -1,0 +1,25 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "j2jensen",
+    "robkeim",
+    "wolf99"
+  ],
+  "files": {
+    "solution": [
+      "TreeBuilding.cs"
+    ],
+    "test": [
+      "TreeBuildingTests.cs"
+    ],
+    "example": [
+      ".meta/Example.cs"
+    ],
+    "invalidator": [
+      "TreeBuilding.csproj"
+    ]
+  },
+  "blurb": "Refactor a tree building algorithm."
+}
