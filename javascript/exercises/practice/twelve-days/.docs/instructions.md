@@ -5,7 +5,7 @@ Your task in this exercise is to write code that returns the lyrics of the song:
 "The Twelve Days of Christmas" is a common English Christmas carol.
 Each subsequent verse of the song builds on the previous verse.
 
-The lyrics your code returns should _exactly_ match the full song text shown below.
+The lyrics your code returns should _exactly_ match the full song text shown below when requesting all verses.
 
 ## Lyrics
 
@@ -34,3 +34,17 @@ On the eleventh day of Christmas my true love gave to me: eleven Pipers Piping, 
 
 On the twelfth day of Christmas my true love gave to me: twelve Drummers Drumming, eleven Pipers Piping, ten Lords-a-Leaping, nine Ladies Dancing, eight Maids-a-Milking, seven Swans-a-Swimming, six Geese-a-Laying, five Gold Rings, four Calling Birds, three French Hens, two Turtle Doves, and a Partridge in a Pear Tree.
 ```
+
+## Example
+
+When called with the arguments `(1,2)`, recite should return _exactly_ the following text:
+
+```text
+On the first day of Christmas my true love gave to me: a Partridge in a Pear Tree.
+
+On the second day of Christmas my true love gave to me: two Turtle Doves, and a Partridge in a Pear Tree.
+```
+
+If it is called with only one argument, only return that verse.
+
+There is always a trailing newline.
