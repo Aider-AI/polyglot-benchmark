@@ -3,6 +3,6 @@
 // convenience to get you started writing code faster.
 //
 
-export const recite = () => {
+export const recite = (startVerse, endVerse) => {
   throw new Error('Remove this statement and implement this function');
 };
