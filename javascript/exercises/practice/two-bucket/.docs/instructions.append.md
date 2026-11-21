@@ -18,3 +18,9 @@ Example:
   "otherBucket": 2
 }
 ```
+
+## Unreachable goals
+
+Some goals can never be reached, for example a goal larger than both buckets.
+In that case throw an `Error` instead of returning a result.
+The tests accept the error from either the `TwoBucket` constructor or `solve()`.
