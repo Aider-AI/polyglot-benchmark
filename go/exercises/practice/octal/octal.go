@@ -1,5 +1,5 @@
 package octal
 
-func ParseOctal(input string, expectedNum int64, expectErr bool) {
+func ParseOctal(input string) (int64, error) {
 	panic("Please implement the ParseOctal function")
 }
